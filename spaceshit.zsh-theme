@@ -1,5 +1,7 @@
 # Spaceshit theme.
 #
+# @version 1.0.0
+#
 # A small, fast Oh My Zsh theme inspired by Spaceship. Spaceship is great, but
 # it checks many runtimes and tools that this setup does not need on every
 # prompt render. It keeps Spaceship's familiar colors, but only the useful

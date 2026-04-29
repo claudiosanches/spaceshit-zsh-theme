@@ -1,6 +1,8 @@
 # Spaceshit ZSH Theme
 
-A small, fast Oh My Zsh theme inspired by [Spaceship](https://spaceship-prompt.sh/). Spaceship is great, but it checks many runtimes and tools that some setups do not need on every prompt render. `spaceshit` keeps Spaceship's familiar colors and layout, but only includes the most useful pieces for a lightweight experience.
+> The beauty of [Spaceship](https://spaceship-prompt.sh/) with the speed of a minimalist setup.
+
+**Spaceshit** is a lightweight, high-performance Oh My Zsh theme designed for developers who love the Spaceship aesthetic but want to keep their terminal snappy. By focusing on essential data like Git status and command execution time, it eliminates the "bloat" of checking for dozens of unused runtimes on every prompt render.
 
 ![Spaceshit Screenshot](screenshot.png)
 
